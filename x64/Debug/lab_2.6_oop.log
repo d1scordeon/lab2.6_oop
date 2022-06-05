@@ -1,0 +1,3 @@
+﻿  LorryC.cpp
+C:\Users\Kateryna Artemovska\source\repos\lab_2.6_oop\LorryC.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  lab_2.6_oop.vcxproj -> C:\Users\Kateryna Artemovska\source\repos\lab_2.6_oop\x64\Debug\lab_2.6_oop.exe

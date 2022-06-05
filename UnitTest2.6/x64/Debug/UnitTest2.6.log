@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest2.6.cpp
+C:\Users\Kateryna Artemovska\source\repos\lab_2.6_oop\LorryC.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\Kateryna Artemovska\source\repos\UnitTest2.6\UnitTest2.6.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\Kateryna Artemovska\source\repos\UnitTest2.6\UnitTest2.6.cpp(17,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\Kateryna Artemovska\source\repos\lab_2.6_oop\x64\Debug\UnitTest2.6.lib and object C:\Users\Kateryna Artemovska\source\repos\lab_2.6_oop\x64\Debug\UnitTest2.6.exp
+  UnitTest2.6.vcxproj -> C:\Users\Kateryna Artemovska\source\repos\lab_2.6_oop\x64\Debug\UnitTest2.6.dll
